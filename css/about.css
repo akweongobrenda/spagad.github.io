@@ -1,0 +1,20 @@
+.aboutHeading{
+    margin-left: 30px;
+    font-size: 40px;
+    font-family: roboto;
+    color: rgb(34, 33, 33);
+    font-weight: bold;
+}
+
+.aboutText{
+    margin-left: 30px;
+    font-size: 16px;
+    font-family: roboto;
+}
+
+.aboutPik{
+    width: 450px;
+    height: 350px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
